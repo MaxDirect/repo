@@ -8,6 +8,20 @@ MD5sum: E551DBD24CE93775989102F2444C66BB
 SHA1: 65A607AE5E16FD8575D478DE17207672FCF6F137
 SHA256: 4375FEA83907190E20C27CAA802F515336234053C6AEB74C56A1A852E010EB7D
 Section: GamesHack
-Description: Tweak and hack of the games
+Description: Hack Call of duty by abu abdallah 4k (: ios 12 
 Author: Abdullah 4K <4k@gmail.com>
-Name: Call of Duty Mobile Aimbot Hack
+Name: Call of Duty Mobile Aimbot 
+
+Package: com.4kcydiarepo.codaimbot2
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 4K <4k@gmail.com>
+Filename: /CodmAimbot.deb
+Size: 154648
+MD5sum: E551DBD24CE93775989102F2444C66BB
+SHA1: 65A607AE5E16FD8575D478DE17207672FCF6F137
+SHA256: 4375FEA83907190E20C27CAA802F515336234053C6AEB74C56A1A852E010EB7D
+Section: GamesHack
+Description: Hack Call of duty by abu abdallah 4k (: ios 12 
+Author: Abdullah 4K <4k@gmail.com>
+Name: Call of Duty Mobile Aimbot Hack 2
